@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+#game-field {
+    width: 960px;
+    height: 640px;
+    border: 2px solid black;
+    background: #eee;
+    margin: 15px auto;
+    display: block;
+}

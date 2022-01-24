@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Eater</title>
+    <!-<link rel="stylesheet" href="style.css">-->
+</head>
+
+<style>
+	body {
+		margin: 0;
+	}
+
+	#game-field {
+		width: 960px;
+		height: 640px;
+		border: 2px solid black;
+		background: #eee;
+		margin: 15px auto;
+		display: block;
+	}
+</style>
+
+<body>
+    <div id="bacteria-quantity"></div>
+    <div id="food-quantity"></div>
+    <div id="time-passed"></div>
+    <div id="time-passed-accurate"></div>
+    
+    <input id="food-trackbar" type="range" min="0" max="20" step="0.1" value="1" oninput="updateFoodTimeOut()">
+    <span id="food-label"></span>
+    
+    <input type="checkbox" id="show-paths-chb" onchange="checkShowPaths()">Показывать пути</input>
+    <input type="checkbox" id="show-energy-chb" onchange="checkShowEnergy()" value="true">Показывать энергию</input>
+    <input type="checkbox" id="pause" onchange="checkPause()">Пауза</input>
+    <button id="restart-button" onclick="restart()">Restart</button>
+
+    <canvas id="game-field" width="960", height="640"></canvas>
+
+    <script src="scripts/game.js"></script>
+    <script src="scripts/simulation.js"></script>
+    <script src="scripts/bacterium.js"></script>
+    <script src="scripts/food.js"></script>
+    <script src="scripts/util.js"></script>
+    <script src="scripts/script.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,50 @@
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 67.733332 68.4">
+  <g
+     transform="translate(0,-228.95)">
+    <ellipse
+       style="fill:rgb(124,252,0);fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="body"
+       cx="33.866665"
+       cy="263.13333"
+       rx="18.970509"
+       ry="33.428097" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.908481,240.58704 10.394347,-6.3311"/>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 51.782737,252.72952 12.189734,-2.55134"/>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.113466,271.34485 11.622771,2.83482"/>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.577751,285.6607 10.299854,5.29167"/>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 19.730337,240.58704 9.3359896,234.25594"/>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.856081,252.72952 3.6663496,250.17818"/>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.525352,271.34485 3.9025836,274.17967"/>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 20.061067,285.6607 9.7612123,290.95238"/>
+    <circle
+       style="fill:#00ffd8;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4591"
+       cx="27.866293"
+       cy="242.62813"
+       r="2.2678571" />
+    <circle
+       style="fill:#00ffd8;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4591-5"
+       cx="39.867039"
+       cy="242.62813"
+       r="2.2678571" />
+  </g>
+</svg>
